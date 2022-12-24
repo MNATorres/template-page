@@ -7,6 +7,9 @@ import Pricing from "./components/Pricing";
 import SplitWithImage from "./components/SplitWithImage";
 import Cards from "./components/Cards";
 import Footer from "./components/Footer";
+import TestimonialPage from './components/Testimonial';
+import Contact from './components/Contact';
+import NewsLetter from './components/Newsletter';
 
 function App() {
   return (
@@ -17,7 +20,9 @@ function App() {
         <BasicStatistics />
         <SplitWithImage />
         <Pricing />
-        <Cards />
+        <TestimonialPage />
+        <Contact />
+        <NewsLetter />
         <Footer />
       </ChakraProvider>
     </div>

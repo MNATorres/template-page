@@ -3,17 +3,13 @@ import ProductAddToCart from "./ProductAddToCart";
 
 export default function Cards() {
   return (
-    <div>
-      <div style={{ display: "flex", maxWidth: "1100px", margin: "0 auto" }}>
+    <div style={{ display: "grid",maxWidth: "1100px", gridTemplateColumns:'1fr 1fr 1fr', margin:'0 auto'}}>
         <ProductAddToCart />
         <ProductAddToCart />
         <ProductAddToCart />
-      </div>
-      <div style={{ display: "flex", maxWidth: "1100px", margin: "0 auto" }}>
         <ProductAddToCart />
         <ProductAddToCart />
         <ProductAddToCart />
-      </div>
     </div>
   );
 }
