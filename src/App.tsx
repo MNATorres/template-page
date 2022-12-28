@@ -5,7 +5,6 @@ import Carousel from "./components/Carousel";
 import BasicStatistics from "./components/Statistics";
 import Pricing from "./components/Pricing";
 import SplitWithImage from "./components/SplitWithImage";
-import Cards from "./components/Cards";
 import Footer from "./components/Footer";
 import TestimonialPage from './components/Testimonial';
 import Contact from './components/Contact';
