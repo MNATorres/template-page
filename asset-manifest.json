@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/template-page/static/js/main.b373d391.js",
+    "index.html": "/template-page/index.html",
+    "main.b373d391.js.map": "/template-page/static/js/main.b373d391.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b373d391.js"
+  ]
+}
